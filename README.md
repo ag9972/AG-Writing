@@ -1,6 +1,6 @@
 # AG-Writing
 
-I became interested in food systems, agriculture, and supply chains in 2021--around the time that COVID-19 related supply chain disruptions were making headlines. The effect the disruptions had on third world countries & my neighborhood alike intrigued me, and highlighted to me just how  fragile our relationship with the earth & communities really are. I saw rich people complaining about egg prices on Nextdoor, and then read about Indonesian farmers throwing out milliions of tons of tomatoes. Why? 
+I became interested in food systems, agriculture, and supply chains in 2021--around the time when COVID-19 related supply chain disruptions were making headlines. The effect the disruptions had on third world countries & my neighborhood alike intrigued me, and highlighted to me just how  fragile our relationship with the earth & communities really are. I saw rich people complaining about egg prices on Nextdoor, and then read about Indonesian farmers throwing out milliions of tons of tomatoes. Why? 
 
 
 In college, I studied Industrial & Systems Engineering and minored in Global Development. My major taught me the mathematical frameworks behind supply chain & manufacturing systems, and the minor introduced me to various international development concepts and paradigms. Naturally, I had an interest in the intersection of the two, and global food systems fit into that category. However, I didn't find any course or significant research at my university while I was there. 
